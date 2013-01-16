@@ -1,4 +1,4 @@
 testrepo
 ========
 
-just a test
+this is oiur first repo! adding vanina and Ivan
